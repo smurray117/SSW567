@@ -1,0 +1,7 @@
+1. There were two main challenges I encountered during this assignment. First was finding the easiest way to quickly classify triangles. I found the best solution was to order each side of the triangle by length, and then attempt to figure out what type of triangle it was. Second was ensuring the program could catch any non-triangles passed into the function. Once I found the correct formula and logic for the if statement everything snapped into place.
+
+2. The requirements were very easy to follow, especially given the partial solution.
+
+3. I found no issue with the tools used during this assignment, especially because I've had plenty of exposure to python and pyUnit in the past.
+
+4. To ensure adequate testing, I made sure there were 3 examples of each type of triangle, and both potential non-triangle errors. Additionally, I shuffled the order of the side lengths so that they were not always in shortest, middle, longest order.
